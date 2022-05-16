@@ -1,3 +1,2 @@
 it is a test file
-it is in master branch
-it will create conflict
+it is in master
