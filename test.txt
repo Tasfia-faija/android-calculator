@@ -1,2 +1,2 @@
 it is a test file
-it is in main branch
+it is in feature2 branch
