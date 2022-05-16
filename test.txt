@@ -1,2 +1,4 @@
 it is a test file
-it is in master
+it is in feature2 branch
+it will resolve conflict
+
